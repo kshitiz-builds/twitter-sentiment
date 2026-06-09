@@ -95,9 +95,9 @@ nltk
 
 ```
 moodmosaic/
-├── sentiment_analysis.py   # main script — train, predict, CLI
-├── trained_model.sav       # saved after training (git-ignored)
-├── vectorizer.sav          # saved after training (git-ignored)
+├── sentiment_analysis.py   
+├── trained_model.sav       
+├── vectorizer.sav          
 ├── requirements.txt
 └── README.md
 ```
